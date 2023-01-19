@@ -1,7 +1,3 @@
-# Et program jeg, tro det eller ei, faktisk ble ganske ferdig med.
-# Sikkert fortsatt mange ting som kan forbedres, f. eks. lett installasjon,
-# men det kan jo fikses senere en gang, om jeg føler meg inspirert.
-
 import os
 import sys
 import ctypes
